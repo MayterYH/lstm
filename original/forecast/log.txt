@@ -1,0 +1,18 @@
+parameters:
+time: 2021-02-15T00-41
+lr: 0.0001
+num_layer: 3
+hidden_layer_set: 200
+test_size: 250
+train_windous: 100
+epochs: 600
+====================================
+parameters:
+time: 2021-02-15T00-41
+lr: 0.0001
+num_layer: 3
+hidden_layer_set: 200
+test_size: 250
+train_windous: 100
+epochs: 600
+====================================
